@@ -1,0 +1,7 @@
+#ed_toolbar {
+  display: none !important;
+}
+
+.wp-editor-area {
+  margin-top: 0 !important;
+}
